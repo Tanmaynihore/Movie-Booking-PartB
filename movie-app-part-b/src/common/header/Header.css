@@ -7,6 +7,17 @@
   background-color: #ff7f7f;
   height: 35px;
 }
+.LoginButton{
+  float: right;
+}
+.booknow-button {
+  float: right;
+  margin-right: 20px;
+ 
+}
+
+
+
 @media (prefers-reduced-motion: no-preference) {
   .Logo {
     animation: App-logo-spin infinite 8s;
